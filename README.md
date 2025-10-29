@@ -1,6 +1,5 @@
 # Create a professional README file for your A/B Test Analysis project
 
-readme_content = """
 # 🧪 A/B Test Analysis Report
 
 ### 📘 Project Overview  
@@ -28,8 +27,4 @@ The objective is to evaluate whether the new landing page leads to a **statistic
 
 ### 👨‍💻 Author  
 **Amr Ehab** — Data Analyst passionate about turning data into actionable insights.  
-"""
 
-# Save README.md
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
